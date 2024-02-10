@@ -153,6 +153,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8b6e5fe414e74d4b8115296323c0b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  shelfPrefabs:
+  - {fileID: 7873324396560715407, guid: 27bfc57053f115d4291221f8ccd5bff4, type: 3}
 --- !u!114 &817276243
 MonoBehaviour:
   m_ObjectHideFlags: 0
